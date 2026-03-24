@@ -6,7 +6,7 @@ const app = express();
 
 const PORT = process.env.PORT || 3000;
 
-const consultants = require('./consultants.json');
+const consultants = require('./public/consultants.json');
 
 
 const polkku = path.join(__dirname, 'public');
