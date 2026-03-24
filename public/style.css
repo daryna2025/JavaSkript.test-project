@@ -1,0 +1,65 @@
+
+header {
+    background-color: #022859;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto'; 
+    font-size: 80px;
+    color: #0554F2;
+}
+
+p {
+    font-family: 'Roboto Mono';
+    font-size: 22px;
+}
+
+body {
+    font-family: 'Roboto Mono';
+    font-size: 22px;
+    background-color: white;
+}
+
+body.dark-theme {
+    background-color: #022859;
+    font-size: 22px;
+    font-family: 'Roboto Mono';
+    color: white; 
+}   
+
+button {
+    font-family: 'Roboto Mono';
+    font-size: 20px;
+    background-color: #0554F2;
+    color: white;
+    border: none;
+    margin-right: 20px; 
+    margin-left: 20px; 
+    padding: 10px 20px;
+
+    cursor: pointer;
+}
+
+table {
+  font-family: 'Roboto Mono';
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  
+}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #0554F2;
+  color: white;
+}

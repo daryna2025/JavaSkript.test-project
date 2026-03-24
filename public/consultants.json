@@ -1,0 +1,21 @@
+[
+    {"Name": "John Doe",
+     "Schedule": "Monday to Friday, 9 AM to 5 PM",
+     "Contacts": "Email: john.doe@hirepoint.com, Phone: +1234567890"
+    },
+
+    {"Name": "Anna Repo",
+     "Schedule":"Monday to Friday, 9 AM to 5 PM",
+     "Contacts": "Email: anna.repo@hirepoint.com, Phone: +10004567891"
+    },
+
+    {"Name": "Matti Meikäläinen",
+        "Schedule": "Monday to Friday, 9 AM to 5 PM",
+        "Contacts": "Email: matti.meikalainen@hirepoint.com, Phone: +10004567072"
+    },
+
+    {"Name": "Sanna Virtanen",
+        "Schedule": "Monday to Friday, 9 AM to 5 PM",
+        "Contacts": "Email: sanna.virtanen@hirepoint.com, Phone: +10234567055"
+    }
+]
